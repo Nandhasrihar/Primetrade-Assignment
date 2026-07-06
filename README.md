@@ -1,4 +1,4 @@
-#Bitcoin Market Sentiment & Trader Performance Analysis
+Bitcoin Market Sentiment & Trader Performance Analysis
 Project Overview
 
 This project analyzes the relationship between Bitcoin Fear & Greed Index and historical trading performance from Hyperliquid.
